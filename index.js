@@ -8,8 +8,7 @@ console.log(myAlphabet.length);
 // #### 1.2 Declare and initialize an array called 'Planets' with 5 string values with names of planets. 
 //     - Console.log each item in the array. Also console.log the index for each planet.
 
-let planets = ['Jupiter', 'World', 'Saturn', 'Mercury'];
-
+let planets = ['Jupiter', 'Earth', 'Saturn', 'Mercury', "Uranus"];
 planets.forEach(function(members){
     console.log(members);
 })
